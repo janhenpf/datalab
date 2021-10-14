@@ -6,6 +6,7 @@
 
 * [AEI website](https://www.aei.mpg.de/)
 * [AEI The Hunters YouTube Video](https://www.youtube.com/watch?v=vRXUpN7a-lU&t=698s&ab_channel=MaxPlanckInstituteforGravitationalPhysics)
+* [Basic (Terminal) Commands](https://www.techrepublic.com/article/16-terminal-commands-every-user-should-know/)
 * [Compile with C](https://gamedevunboxed.com/learn-how-to-compile-a-c-program/)
 * [Docker Hub](https://hub.docker.com/search?operating_system=linux&source=verified&type=image)
 * [Git Docs](https://git-scm.com/docs/user-manual)
