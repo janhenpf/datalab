@@ -15,6 +15,7 @@
 * [Gravitational Waves NASA](https://spaceplace.nasa.gov/gravitational-waves/en/)
 * [Gravitational Waves Caltech](https://www.ligo.caltech.edu/page/what-are-gw)
 * [Gravitational Waves Spectrum](https://en.wikipedia.org/wiki/Gravitational_wave#/media/File:The_Gravitational_wave_spectrum_Sources_and_Detectors.jpg)
+* [How to google your errors](https://medium.com/@niamhpower/how-to-google-effectively-as-a-developer-4ebe363afe)
 * [LIGO](https://www.ligo.caltech.edu/page/facts)
 * [LISA](https://lisa.nasa.gov/)
 * [Paper: Observation of Gravitational Waves from a Binary Black Hole Merger](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.116.061102)
