@@ -2,11 +2,14 @@
 
 ## Quick links: 
 
+### Lab 1
+
 * [AEI website](https://www.aei.mpg.de/)
 * [AEI The Hunters YouTube Video](https://www.youtube.com/watch?v=vRXUpN7a-lU&t=698s&ab_channel=MaxPlanckInstituteforGravitationalPhysics)
 * [Compile with C](https://gamedevunboxed.com/learn-how-to-compile-a-c-program/)
 * [Docker Hub](https://hub.docker.com/search?operating_system=linux&source=verified&type=image)
 * [Git](https://git-scm.com/docs/user-manual)
+* [Git Workflows](https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows)
 * [Geo600](https://www.geo600.org/35584/movies)
 * [Gravitational Waves NASA](https://spaceplace.nasa.gov/gravitational-waves/en/)
 * [Gravitational Waves Caltech](https://www.ligo.caltech.edu/page/what-are-gw)
