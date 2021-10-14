@@ -22,7 +22,7 @@ The purpose of this course is to provide an insight into the field of Data Analy
 * Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 * [Create a github account](https://github.com/join) (if you don't have one aready) and log into it. 
 
-#### Have a ssh key
+#### Generate a ssh key
 
 > To make your life easier when you upload the solutions to the next exercises you should now generate on your machine a `ssh` key that will allow you to do operations on your repository without being asked for a username and password each time. 
 
@@ -43,14 +43,38 @@ The purpose of this course is to provide an insight into the field of Data Analy
 * Open a command line/terminal an clone your repository. The command should look something like:
 
 ```
-git clone gitithub.com:<username>/datalab.git
+git clone git@github.com:<username>/datalab.git
 ```
 
 This will automatically create a new folder called `datalab` inside the folder where you ran the command and will give you an error if such a folder exists. If you want the folder to have another name run `git clone gitithub.com:<username>/datalab.git <new_folder_name>`. IF you want to move the entire folder after you have cloned it everything will work fine as the git references are kept in hidden files inside the folder.
 
 #### Your first commit
 
-* Create a new file in `datalab/solutions/exercise1.py` and push your changes to your repository. 
+* Create a new file in `datalab/solutions/exercise_1.py` and push your changes to your repository. 
+
+<details>
+  <summary>Solution here</summary>
+
+  Go to your `datalab` folder. Make a new folder called `solutins`:
+  ```
+  $ mkdir solutions
+  ```
+  Create a new file called `exercise_1.py` with any method.
+  ```
+  $ touch solutions/exercise_1.py
+  ```
+  Check the changes to your repository
+  ```
+  $ git status
+  ```
+  Commit the changes and then push them:
+  ```
+  $ git add . 
+  $ git commit -m "Saving my changes."
+  $ git log
+  $ git push origin main
+  ```
+</details>
 
 #### Rebase from upstream
 
