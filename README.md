@@ -105,7 +105,7 @@ To get new changes that are pushed to __this__ main repository the simplest way 
   $ git add . 
   $ git commit -m "Saving my changes."
   $ git log
-  $ git rebase upstream/master
+  $ git rebase upstream/main
   $ git log
   ```
 </details>
