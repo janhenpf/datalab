@@ -27,3 +27,4 @@
 ### Lab 2
 
 * [Making plots in jupyter](https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d)
+* [Template banks in gravitational wave searches](https://dcc.ligo.org/public/0007/P070111/000/P070111-00.pdf)
