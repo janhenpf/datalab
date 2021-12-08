@@ -2,7 +2,9 @@
 
 ## Quick links: 
 
-### Lab 1
+### Useful links
+
+# Introduction
 
 * [AEI website](https://www.aei.mpg.de/)
 * [AEI The Hunters YouTube Video](https://www.youtube.com/watch?v=vRXUpN7a-lU&t=698s&ab_channel=MaxPlanckInstituteforGravitationalPhysics)
@@ -24,7 +26,8 @@
 * [Neyman-Pearson Criterion](https://cnx.org/contents/aOvnYzjq@1.9:7yMVBb6e@2/The-Neyman-Pearson-Criterion)
 
 
-### Lab 2
+### Coding
 
 * [Making plots in jupyter](https://towardsdatascience.com/making-plots-in-jupyter-notebook-beautiful-more-meaningful-23c8a35c0d5d)
 * [Template banks in gravitational wave searches](https://dcc.ligo.org/public/0007/P070111/000/P070111-00.pdf)
+* [Einstein Online](https://www.einstein-online.info/en/about-einstein-online/history-eo/)
