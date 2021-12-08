@@ -32,3 +32,4 @@
 * [Template banks in gravitational wave searches](https://dcc.ligo.org/public/0007/P070111/000/P070111-00.pdf)
 * [Einstein Online](https://www.einstein-online.info/en/about-einstein-online/history-eo/)
 * [Timing your programm in python](https://stackoverflow.com/questions/5622976/how-do-you-calculate-program-run-time-in-python)
+* [Sleep function in python](https://realpython.com/python-sleep/)
